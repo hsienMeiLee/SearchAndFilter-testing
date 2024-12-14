@@ -1,6 +1,6 @@
 import React from 'react';
 import './Recommended.css';
-import Buttons from '../Components/Buttons';
+import Buttons from '../components/Buttons';
 
 function Recommended({handleClick}) {
   return (
